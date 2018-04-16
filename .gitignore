@@ -1,0 +1,7 @@
+# Ignore these file patterns and directory tree.
+
+*.war
+*.jar
+*.class
+target/
+/bin/
